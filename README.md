@@ -11,7 +11,7 @@
 
 ## 🌟 Featured Projects
 
-- **StarWarsMazeGame-C**: Παιχνίδι λαβύρινθου σε C με θέμα Star Wars.
+- **StarWarsMazeGame-C**: Maze game in C with a Star Wars theme.
   
   👉 [See the project on GitHub](https://github.com/nikosdmp/StarWarsMazeGame-C)
 
