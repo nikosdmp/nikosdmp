@@ -1,5 +1,5 @@
 <!-- Header Typing Effect -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=false&width=500&height=50&lines=Hi,+I'm+Nikos+👋)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=false&width=500&height=50&lines=Hi,+I'm+Nikos+👋)
 
 
 ## 🛠️ Tech Stack & Tools
