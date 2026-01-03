@@ -18,7 +18,7 @@
 - **BillionairesListManager**: This C program allows you to manage a list of billionaires. You can add, search, delete, and view records, as well as save and load data from `.txt` files.
   The program supports searches by name, country, activity, birth date, birth time, and net worth.
   
-  👉 [See the project on GitHub]
+  👉 [See the project on GitHub](https://github.com/nikosdmp/BillionairesListManager)
 
 ---
 
