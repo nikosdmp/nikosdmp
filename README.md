@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 Featured Projects
-*(Add your projects here when you start new repos)*
+
 
 ---
 
